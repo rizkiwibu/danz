@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878836361']
-global.pengguna = 'ikybot'
+global.owner = ['6283802476998']
+global.pengguna = 'nandabot'
 global.premium = []
-global.author = 'ikybot'
-global.pemilik = ['6285878836361'] 
-global.ownernomer = '6285878836361'
-global.ownername = 'Ikystore'
-global.botname = 'Ikybot'
+global.author = 'nandabot'
+global.pemilik = ['6283802476998'] 
+global.ownernomer = '6283802476998'
+global.ownername = 'nandabot'
+global.botname = 'nandabot'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878836361'
+global.meki = '6283802476998'
 global.footer = 'Ikybot'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
@@ -31,12 +31,12 @@ global.ig = 'https://instagram.com/ikykunn'
 global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '6283817161861'
 global.gopay = '6283817161861'
-global.wame = 'wa.me/6285878836361'
+global.wame = 'wa.me/6283802476998'
 global.email = 'm'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://github.com/rizkiwibu'
-global.packname = '"{\nAuthor: ikybot"\n"Bot Number: 6285878836361"\n"Bot Name: ikybot - MD"\n"Instagram: @ikykunnnn"\n}' 
+global.packname = '"{\nAuthor: nandabot"\n"Bot Number: 6285878836361"\n"Bot Name: nandabot - MD"\n"Instagram: @ikykunnnn"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
