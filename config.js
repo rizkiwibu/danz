@@ -10,12 +10,12 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288971813445']
+global.owner = ['6288212381393']
 global.pengguna = 'DANZ STORE'
 global.premium = []
 global.author = 'DANZ STORE'
-global.pemilik = ['6288971813445'] 
-global.ownernomer = '6288971813445'
+global.pemilik = ['6288212381393'] 
+global.ownernomer = '6288212381393'
 global.ownername = 'DANZ STORE'
 global.botname = 'DANZ BOT'
 global.tengah = "									"
